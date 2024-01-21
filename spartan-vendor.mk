@@ -703,6 +703,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/spartan/proprietary/odm/lib64/libRedeyeReduce.so:$(TARGET_COPY_OUT_ODM)/lib64/libRedeyeReduce.so \
     vendor/realme/spartan/proprietary/odm/lib64/libSEC.HybridHDR.so:$(TARGET_COPY_OUT_ODM)/lib64/libSEC.HybridHDR.so \
     vendor/realme/spartan/proprietary/odm/lib64/libSNPE.so:$(TARGET_COPY_OUT_ODM)/lib64/libSNPE.so \
+    vendor/realme/spartan/proprietary/odm/lib64/libOPAlgoCamFaceBeautyCap.so:$(TARGET_COPY_OUT_ODM)/lib64/libOPAlgoCamFaceBeautyCap.so \
     vendor/realme/spartan/proprietary/odm/lib64/libSNPE_G.so:$(TARGET_COPY_OUT_ODM)/lib64/libSNPE_G.so \
     vendor/realme/spartan/proprietary/odm/lib64/libSonyIMX471RmscLibrary.so:$(TARGET_COPY_OUT_ODM)/lib64/libSonyIMX471RmscLibrary.so \
     vendor/realme/spartan/proprietary/odm/lib64/libStarMode.so:$(TARGET_COPY_OUT_ODM)/lib64/libStarMode.so \
